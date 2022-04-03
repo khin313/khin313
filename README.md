@@ -53,13 +53,9 @@ I'm currently learning about web develpment <img src="https://media.giphy.com/me
 </div>
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khin313&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
----
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 **khin313/khin313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
